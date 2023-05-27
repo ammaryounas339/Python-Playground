@@ -1,0 +1,1 @@
+start "C:\Users\Ammar Younas\Desktop\Python PlayGround\dist\phhh.exe"

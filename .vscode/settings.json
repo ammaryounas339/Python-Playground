@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "keylogger/KeyLogger/lib/jnativehook-2.2.2-javadoc.jar",
+        "c:\\Users\\Ammar Younas\\Downloads\\jnativehook-2.2.2-javadoc.jar"
+    ]
+}
